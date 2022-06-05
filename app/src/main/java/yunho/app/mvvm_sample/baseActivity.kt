@@ -1,4 +1,5 @@
 package yunho.app.mvvm_sample
 
-class baseActivity {
+abstract class baseActivity {
+
 }
